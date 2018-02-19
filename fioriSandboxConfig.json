@@ -1,5 +1,13 @@
 {
-	"applications": {},
+	"applications": {
+		"MyFioriObject-display" : {
+			"additionalInformation" : "SAPUI5.Component=my.cool.plugin",
+			"applicationType" : "URL",
+			"url" : "https://www.sap.com",
+			"title" : "SAP Homepage",
+			"description" : "SAP Homepage"
+		}
+	},
 	"bootstrapPlugins": {
 		"ui5con": {
 			"component": "my.cool.plugin",
